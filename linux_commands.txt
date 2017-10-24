@@ -1,7 +1,0 @@
-Copy folders and exclude some
-
-rsync -av --exclude='path1/to/exclude' --exclude='path2/to/exclude' source destination
-
-CREATE A DATABASE USER AND ADD TO A DATABASE:
-
-GRANT ALL PRIVILEGES ON pedders_shop_prd.* TO 'pedders_shop_prd'@'%' IDENTIFIED BY '6xZyb72b1s';
